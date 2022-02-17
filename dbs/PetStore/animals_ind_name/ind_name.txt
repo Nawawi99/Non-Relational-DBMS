@@ -1,0 +1,9 @@
+Whiskers:./dbs/petstore/animals/1.json
+Oreo:./dbs/petstore/animals/2.json
+Fiddles:./dbs/petstore/animals/3.json
+Rex:./dbs/petstore/animals/4.json
+Godzilla:./dbs/petstore/animals/5.json
+Zoe:./dbs/petstore/animals/6.json
+Sue:./dbs/petstore/animals/7.json
+Sue:./dbs/petstore/animals/8.json
+Loo:./dbs/petstore/animals/9.json
